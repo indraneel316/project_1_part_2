@@ -3,13 +3,6 @@
 ## 1. Introduction
 
 - **Application Name**: NutriNinja  
-- **Deployed Application URL**: [NutriNinja](https://frontend1-dot-nutrininja-443507.uw.r.appspot.com/)  
-- **Team Members**:  
-  - Tanu Priya - ki7085  
-  - Indraneel Parthasarathy - vo2786  
-  - Sri Vidya Rani Narala - oj1211  
-
----
 
 ## 2. Test Credentials and Login Guide
 
